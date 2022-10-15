@@ -1,4 +1,5 @@
 PASOS
+
     1. git init
     2. git branch -M main (de master a main) - rama principal
     2.5 git config --list
